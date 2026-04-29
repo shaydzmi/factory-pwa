@@ -1,7 +1,7 @@
 {
   "name": "Factory App",
   "short_name": "Factory",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f0f2f5",
   "theme_color": "#ffffff",
